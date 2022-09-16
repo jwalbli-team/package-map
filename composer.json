@@ -1,23 +1,23 @@
 {
-    "name": "semai-intern-team/package-map",
+    "name": "jwalbli-team/package-map",
     "description": "Package Map",
     "type": "library",
     "keywords": ["package", "skeleton"],
-    "homepage": "https://github.com/semai-intern-team/package-map",
+    "homepage": "https://github.com/jwalbli-team/package-map",
     "license": "MIT",
     "authors": [
         {
-            "name": "David Kurniawan",
-            "email": "jatinangorservice@gmail.com",
-            "homepage": "https://www.semai.co.id"
+            "name": "Jm Ihza Mahendra",
+            "email": "jwalblionline@gmail.com",
+            "homepage": "https://www.malakagroup.com"
         }
     ],
     "support": {
-        "docs": "https://semai-intern-team.github.io/package-map/",
-        "issues": "https://github.com/semai-intern-team/package-map/issues",
-        "rss": "https://github.com/semai-intern-team/package-map/releases.atom",
-        "source": "https://github.com/semai-intern-team/package-map.git",
-        "wiki": "https://github.com/semai-intern-team/package-map/wiki"
+        "docs": "https://jwalbli-team.github.io/package-map/",
+        "issues": "https://github.com/jwalbli-team/package-map/issues",
+        "rss": "https://github.com/jwalbli-team/package-map/releases.atom",
+        "source": "https://github.com/jwalbli-team/package-map.git",
+        "wiki": "https://github.com/jwalbli-team/package-map/wiki"
     },
     "require": {
         "php": "^7.2",
